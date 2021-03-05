@@ -1,0 +1,166 @@
+@import "../../../common/stylus/mixins.styl"
+.login_static
+  width 100%
+  height 100%
+  background-color #ffffff
+  .login_back
+    display block
+    width 100%
+    margin-left 10px
+    padding-top 20px /*如果设置margin的话，则背景中margin的高度是另外一种颜色*/
+    .iconfont
+      font-size 26px
+      color grey
+  .login_title
+    width 100%
+    margin 40px 0
+    text-align center
+    font-size 30px
+  .login_ways
+    box-sizing border-box  /*这样设置padding，不会影响子元素*/
+    width 100%
+    padding 0 40px
+    .way_name
+      text-align center
+      >span
+        font-size 20px
+        color black
+      .password_login
+        margin-left 20px
+    .way_content
+      width 100%
+      margin-top 16px
+      .login_way_details
+        width 100%
+        /*暂时隐藏手机登录*/
+        .on
+          display none
+        .phone_container
+          .telephone_num
+            box-sizing border-box
+            width 90%
+            margin 10px auto 0 /*水平居中，上面距离*/
+            height 42px
+            font-size 14px
+            border 2px darkgrey solid
+            >input
+              display inline-block
+              box-sizing border-box  /*设置padding时，不会影响元素大小*/
+              padding-left 10px
+              width 100%
+              height 38px
+              line-height 38px
+              outline none
+              caret-color #00b7ff  /*光标颜色*/
+              &:focus
+                outline none
+              &::-moz-focus-inner
+                border-color transparent
+          .verification_container
+            clearFix()
+            box-sizing border-box  /*为了与button大小一致，因为botton宽度按border-box计算*/
+            width 90%
+            margin 15px auto 0 /*水平居中，上面距离*/
+            height 42px
+            font-size 14px
+            border 2px darkgrey solid
+            >input
+              float left
+              width 55%
+              height 38px
+              line-height 38px
+              outline none /*无外边框*/
+              margin-left 10px
+              caret-color #00b7ff
+            .login_verification
+              float right
+              margin-top 7px
+              font-size 14px
+              margin-right 5px
+              background-color: #ffffff
+              border 2px darkgrey solid
+              border-radius 25px
+              color grey
+              width 38%
+              &.right_phone
+                color black
+            .password_icon
+              float right
+              height 42px
+              line-height 42px
+              text-align right
+              .iconfont
+                font-size 25px
+                margin-right 10px
+                color black
+          .captcha_container
+            clearFix()
+            box-sizing border-box  /*为了与button大小一致，因为botton宽度按border-box计算*/
+            width 90%
+            margin 15px auto 0 /*水平居中，上面距离*/
+            height 42px
+            border 2px darkgrey solid
+            >input
+              float left
+              width 38%
+              height 38px
+              line-height 30px
+              outline none /*无外边框*/
+              margin-left 10px
+              font-size 14px
+              caret-color #00b7ff
+            >img
+              float right
+              width 100px
+              height 36px
+            .login_verification
+              float right
+              margin-top 7px
+              font-size 14px
+              margin-right 5px
+              background-color: #ffffff
+              border 2px darkgrey solid
+              border-radius 25px
+              color grey
+              width 38%
+              &.right_phone
+                color black
+            .password_icon
+              float right
+              height 42px
+              line-height 42px
+              text-align right
+              .iconfont
+                font-size 25px
+                margin-right 10px
+                color black
+          .verification_summit
+            width 90%
+            margin 15px auto 0 /*水平居中，上面距离*/
+            line-height 38px
+            font-size 14px
+            >button
+              display block
+              width 100%
+              height 40px
+              background-color: #00b7ff
+              border 2px #00b7ff solid
+              border-radius 25px
+              font-size 16px
+              color white
+          .login_tips
+            width 90%
+            margin 15px auto 0 /*水平居中，上面距离*/
+            font-size 14px
+            line-height 18px /*字体间间距*/ /*为何该值与高度一样时，行内元素居中？？*/
+            color gray
+            .login_agreement
+              color #00b7ff
+          .changeLogin
+            width 90%
+            margin 15px 0 0 /*水平居中，上面距离*/
+            font-size 16px
+            color #00b7ff
+            text-align center
+          /*.on
+            border-color #00b7ff*/

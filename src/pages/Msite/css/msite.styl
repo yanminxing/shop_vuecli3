@@ -1,0 +1,57 @@
+@import "../../../common/stylus/mixins.styl"
+.m_site
+  width 100%
+  height 100%
+  background-color #f6f6f6
+  .scroll_area
+    position absolute
+    top 0  /*下面搞了一个空元素，距离标题哪里*/
+    width 100%
+    bottom 50px
+    left 0
+    overflow hidden
+    /*头部css*/
+    /*导航，即swiper轮播图*/
+    .m_site_nav
+      width 94%
+      margin 0 3% 0 3%
+      &::before  /*这里搞了一个空元素，撑起高度，上面的父容器就不用再偏离高度了*/
+        content ""
+        width 100%
+        height 65px
+        display block
+        background-color #f6f6f6
+      .swiper-container
+        width 100%
+        height 212px
+        border 1px #ffffff solid
+        border-radius 25px
+        background-color #ffffff
+        .swiper-wrapper
+          width 100%
+          height 100%
+          .swiper-slide
+            width 100%
+            height 100%
+            display flex /*实现两行四列布局*/
+            flex-direction row/*主轴方向*/
+            justify-content start/*主轴对齐方式，居中*/
+            align-items start/*副轴对齐方式，上对齐*/
+            flex-wrap wrap /*如果一条轴放不下，如何换行*/
+            .food_category
+              width 25%  /*四列布局*/
+              .food_picture_container
+                display block /*块级元素，flex之后需要设置？？？*/
+                width 100%
+                text-align center /*行内元素即，图片居中对齐*/
+                padding-top 13px
+                .food_picture
+                  display inline-block /*可以设置宽和高*/
+                  width 54px
+                  height 54px
+              span
+                display block
+                width 100%
+                font-size 13px
+                text-align center
+                padding-top 2px

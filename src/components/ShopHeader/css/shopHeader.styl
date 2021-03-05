@@ -1,0 +1,202 @@
+@import "../../../common/stylus/mixins.styl"
+.shop_header_container
+  width 100%
+  position absolute
+  top 0
+  z-index 100
+  background-color #ffffff
+  .shop_header
+    position relative
+    width 100%
+    height 80px /*需要设置高度，要不然背景图片不显示*/
+    line-height 80px /*里面的行内元素垂直居中显示*/
+    .shop_back
+      position absolute
+      left 10px
+      .iconfont
+        color white
+        font-size 20px
+    .shop_search
+      position absolute
+      right 10px
+      .iconfont
+        color white
+        font-size 20px
+  .link_detail
+    width 100%
+    .shop_title_container
+      display flex
+      margin 15px 10px 0 10px
+      .shop_title_info
+        width 80%
+        .shop_name
+          width 100%
+          font-size 26px
+          text-align center
+        .shopper_info_container
+          width 100%
+          margin-top 10px
+          display flex
+          flex-wrap wrap
+          justify-content start
+          align-items center
+          color #9c9c9c
+          >li:first-child  /*第一个元素特殊处理*/
+            >span
+              color red
+              .iconfont
+                font-size 12px
+                color red
+          .shopper_info
+            font-size 12px
+            margin-left 10px
+            margin-bottom 5px
+      .shop_title_icon
+        position relative
+        z-index 10  /*为了让商家的icon显示在上面*//*该元素或者父元素需要设置position的值，不然z-index失效*/
+        margin-right 20px
+        margin-top -30px
+        width 60px
+        .shop_image
+          width 60px
+          height 60px
+    .food_discounts_container
+      width 90%
+      margin 5px 20px 10px
+      .food_discounts /*ul*/
+        display flex
+        flex-wrap wrap
+        justify-content start
+        align-items center
+        width 100%
+        .discounts_items /*li*/
+          margin-right 5px
+          border 1px #efdbdf solid
+          height 14px
+          padding 0 4px
+          line-height 14px
+          font-size 10px
+          border-radius 25px
+          color #d1736b
+          .items_dis
+            padding 0 3px
+            border-right 1px #efdbdf solid
+          >:last-child  /*伪元素不能使用&.*/
+            border-right transparent
+    .shop_notices_con
+      clearFix()
+      width 94%
+      margin-left 20px
+      .shop_notices
+        float left
+        width 86%
+        color #b2b2b2
+        font-size 12px
+      .icon_down
+        float right
+        margin-right 10px
+        .iconfont
+          color #8f8f8f
+          font-size 18px
+  .extend_modules_con
+    width 100%
+    background-color #FFFFFF
+    .discounts_extend_con
+      width 100%
+      .discounts_extend
+        width 94%
+        margin 10px 20px 0 20px
+        .discounts_name
+          top-border-1px(#dcd7d7)
+          width 100%
+          font-size 18px
+          color #262626
+          padding-top 20px
+        .discounts_list
+          width 100%
+          margin-top 10px
+          .discounts_item
+            clearFix()
+            width 100%
+            height 28px
+            .discounts_keyword
+              float left
+              margin-right 10px
+              height 20px
+              line-height 20px
+              text-align center
+              width 26px
+              font-size 14px
+              background-color #cb33bd
+              color #FFFFFF
+              border-radius 8px
+            .discounts_detail
+              float left
+              width 88%
+              font-size 12px
+              height 28px
+              line-height 20px
+    .shop_server_con
+      width 100%
+      .shop_server_name
+        width 94%
+        margin 30px 20px 0 20px
+        font-size 18px
+        color #262626
+        padding-top 20px
+      .server_lists /*ul*/
+        clearFix()
+        margin-top 15px
+        width 100%
+        .server_item/*li*/
+          float left
+          width 24%
+          height 12px
+          line-height 12px
+          text-align center
+          border-right 1px #efdbdf solid
+          .items
+            display flex
+            justify-content center
+            align-items center
+            .item_name_icon
+              margin-right 2px
+              .iconfont
+                font-size 12px
+            .item_name
+              margin-right 2px
+              font-size 11px
+            .item_question_mack
+              .iconfont
+                font-size 10px
+        >:last-child  /*伪元素不能使用&.*/
+          border-right 0 #ffffff
+    .shop_comment_extend
+      width 100%
+      .comment_extend_name
+        width 94%
+        margin 30px 20px 0 20px
+        font-size 18px
+        color #262626
+      .comment_extend
+        display inline-block
+        width 94%
+        margin 10px 20px 0 20px
+        font-size 12px
+        color #262626
+      &::after /*为了让上拉菜单不与公告重叠？？？*/
+        display block
+        content ""
+        height 30px
+        width 100%
+        background-color #ffffff
+    .shop_up_icon
+      position fixed
+      width 100%
+      text-align center
+      bottom 10px
+      z-index 100
+      height 18px
+      .iconfont
+        font-size 16px
+        color #333333

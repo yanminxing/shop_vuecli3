@@ -1,0 +1,123 @@
+@import ".././../../common/stylus/mixins.styl"
+.foods_details_con
+  width 100%
+  background-color #f2f2f2
+  .header
+    position fixed
+    left 0
+    top 0
+    z-index 100
+    background-color #02b6fd
+    width 100%
+    height 50px
+    line-height 50px
+    .shop_back
+      margin-left 10px
+      .iconfont
+        color white
+        font-size 24px
+    .title
+      margin-left 150px
+      color white
+  .swapper_page
+    position absolute
+    width 100%
+    top 51px
+    left 0
+    bottom 50px
+    overflow hidden
+    .shop_header
+      >span
+        display block
+        content ""
+        width 100%
+        height 200px /*需要设置高度，要不然背景图片不显示*/
+        background-repeat no-repeat  /*设置背景图片*/
+        background-size 100% 200px
+    .food_info_con
+      width 100%
+      margin-top  10px
+      background-color #FFFFFF
+      .shop_name
+        margin-left 10px
+        padding-top 10px
+        font-size 30px
+      .food_info
+        margin-left 10px
+        margin-top 10px
+        color grey
+      .food_item_price
+        color #bbbab8
+        font-size 14px
+        margin 10px 15px 15px 10px
+        height 30px
+        line-height 30px
+        .new_price
+          float left
+          color  red
+          font-size 25px
+        .old_price
+          float left
+          margin-left 8px
+          font-size 12px
+          text-decoration line-through /*字体中间横线*/
+    .food_details_info
+      background-color #FFFFFF
+      padding 10px 10px 15px 10px
+      .detail_title_text
+        font-size 22px
+      .food_set
+        display flex
+        width 100%
+        font-size 12px
+        margin-top 10px
+        .boss_say
+          font-size 14px
+          color #b3b3b4
+        .boss_say_text
+          flex  1
+          line-height 16px
+    .food_detali_rating
+      background-color #FFFFFF
+      margin-top 10px
+      width 100%
+      .rating_title
+        padding-top 10px
+        margin-left 10px
+        font-size 22px
+      .ratings  /*ul*/
+        100%
+        .rating_item  /*li*/
+          border-bottom 1px #c4c4c6 solid
+          width 94%
+          margin 20px 10px 0 10px
+          .user_rating
+            clearFix()
+            width 100%
+            height 50px
+            .user_icon
+              float left
+              .img_con
+                display inline-block
+                width 45px
+                height 45px
+            .user_con
+              float left
+              margin-left 16px
+              display flex
+              flex-direction column
+              .user_name
+                font-size 16px
+                margin-bottom 10px
+            .rating_time
+              float right
+          .user_say_detail
+            width 100%
+            display block
+            font-size 12px
+            line-height 16px
+            margin-left 10px
+            color #bdb8b8
+            padding-bottom 16px
+        >:last-child  /*最后一个子元素不显示下划线*/
+          border transparent

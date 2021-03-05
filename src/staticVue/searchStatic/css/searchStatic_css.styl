@@ -1,0 +1,104 @@
+@import "../../../src/common/stylus/mixins.styl"
+.search_static
+  width 100%
+  height 100%
+  background-color #FFFFFF
+  /*头部css*/
+  .search_header
+    position fixed/*固定定位在顶部*/
+    top 0
+    left 0
+    z-index 10000
+    width 100%
+    height  50px
+    line-height 50px /*行内元素垂直居中*/
+    background-color #02b6fd
+    text-align center /*行内元素水平居中*/
+    >a
+      width 100%
+      .header_title_text
+        display inline-block
+        width 200px
+        font-size 20px
+        color #ffffff
+  /*搜索那列css*/
+  .search_form
+    clearFix()
+    position absolute /*为了禁止该内容向上滑动*/
+    width 95%
+    height 34px
+    left 8px
+    top 61px
+    /*图标与输入框*/
+    .input_container
+      float left
+      display flex  /*两列布局，一列定宽，一列自适应*/
+      align-items center /*副轴垂直居中*/
+      width 75%
+      height 31px /*输入框与提交按钮框输入一样高度时，两者高度不一样，所以这个设置小一些*/
+      border 2px #02b6fd solid /*将图标以及输入框框起来*/
+      /*border-radius 20px*/  /*圆角*/
+      padding-left 10px
+      .input_icon
+        .iconfont
+          font-size 22px
+      .search_content
+        display inline-block
+        margin-left 5px
+        flex 1
+        font-size 12px
+        outline none /*无外边框*/
+    /*按钮*/
+    .summit_text
+      float right
+      display inline-block
+      width 20%
+      height 34px/*输入框与提交按钮框输入一样高度时，两者高度不一样，所以这个设置大一些*/
+      font-size 16px
+      border 2px  #02b6fd solid
+      background-color #02b6fd
+      color #FFFFFF
+      /*解决input和提交按钮设置高度不一样，但是看起来却不一样问题*/
+/*  .demo
+    position absolute
+    top 100px
+    left 20px
+    width 100%
+    .input_ii
+      width 80px
+      height 58px
+      border 2px #00a0dc solid
+      box-sizing border-box
+    .submit_ii
+      margin-left 10px
+      width 80px
+      height 58px*/
+  /*底部导航*/
+  .footer_container
+    top-border-1px(#e4e4e4) /*一像素上边框*/
+    position fixed /*固定定位在底部*/
+    z-index 100 /*显示级别*/
+    bottom 0
+    left 0
+    width 100%
+    height 50px
+    background-color: #ffffff;
+    display flex  /*实现四列两行*/
+    flex-direction row /*主轴行排*/
+    justify-content center /*主轴对齐方式*/
+    .footer_item
+      flex 1
+      display flex  /*实现两行*/
+      text-align center /*行内元素居中*/
+      flex-direction column
+      align-items center
+      margin 5px
+      color #999999
+      &.on
+        color #02a774
+      span
+        font-size 12px
+        margin-top 2px
+        margin-bottom 2px
+        .iconfont
+          font-size 22px

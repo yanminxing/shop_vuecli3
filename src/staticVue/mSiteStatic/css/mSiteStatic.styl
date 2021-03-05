@@ -1,0 +1,219 @@
+@import "../../../src/common/stylus/mixins.styl"
+.my_site
+  width 100%
+  background-color #f6f6f6
+  /*头部css*/
+  .m_site_header
+    width 100%
+    height 50px
+    background-color #02b6fd
+    z-index 100000
+    position fixed/*主要是通过子绝父固（非static）方式来设置左右定宽，中间自适应*/
+    top 0
+    left 0
+    .header_search  /*因为在reset.CSS中，a标签设置了默认的样式，所以相关样式并不会继承父类的*/
+      /*行内元素（如a标签），在文档流中的时候因为是行内元素所以无法设置宽高；而当设置了绝对定位或者浮动，会生成块框（即变成块元素），所以就可以设置宽高了。*/
+      position absolute
+      left 15px /*三列布局*/
+      top 50%/*垂直居中*/
+      transform translateY(-50%)/*垂直居中*/
+      width 10%
+      .icon-sousuo
+        font-size 23px/*我的谷歌浏览器中字号是16px，rem是相对html根元素的单位*/
+        color #FFFFFF
+    .header_title
+      position absolute
+      left 50%
+      top 50%
+      transform translate(-50%, -50%)/*水平垂直居中*/
+      width 50%
+      text-align center
+      .header_title_text/*span是行内元素，需要设置为块级元素，此时宽度和高度才有效（能继承父类的宽度和高度）*/
+        font-size 18px
+        color #ffffff
+        display block
+    .header_login
+      position absolute /*主要设置垂直居中和三列布局*/
+      right 15px
+      top 50%
+      transform translateY(-50%)
+      .header_login_text
+        font-size 14px
+        color #ffffff
+  /*导航，即swiper轮播图*/
+  .m_site_nav
+    width 94%
+    margin 0 3% 0 3%
+    &::before
+      content ""
+      width 100%
+      height 65px
+      display block
+      background-color #f6f6f6
+    .swiper-container
+      width 100%
+      height 212px
+      border 1px #ffffff solid
+      border-radius 25px
+      background-color #ffffff
+      .swiper-wrapper
+        width 100%
+        height 100%
+        .swiper-slide
+          width 100%
+          height 100%
+          display flex /*实现两行四列布局*/
+          flex-direction row/*主轴方向*/
+          justify-content start/*主轴对齐方式，居中*/
+          align-items start/*副轴对齐方式，上对齐*/
+          flex-wrap wrap /*如果一条轴放不下，如何换行*/
+          .food_category
+            width 25%  /*四列布局*/
+            .food_picture_container
+              display block /*块级元素，flex之后需要设置？？？*/
+              width 100%
+              text-align center /*行内元素即，图片居中对齐*/
+              padding-top 13px
+              .food_picture
+                display inline-block /*可以设置宽和高*/
+                width 54px
+                height 54px
+            span
+              display block
+              width 100%
+              font-size 13px
+              text-align center
+              padding-top 2px
+  /*附近商家*/
+  .shop_list
+    width 94%
+    margin 20px 3% 0 3%
+    background-color #f6f6f6
+    .shop_title
+      width 100%
+      height 30px
+      line-height 30px
+      margin-bottom 15px /*与列表的距离*/
+      .iconfont
+        font-size 20px
+        color #b4bac1
+      span
+        font-size 24px
+        padding-left 2px
+        color #979292
+    .shop_container
+      width 100%
+      &::after/*商家列表多时，解决底部导航隐藏商家列表内容*/
+        display block
+        width 100%
+        height 50px
+        content "" /*一定需要加这个才可以*/
+      .shops
+        width 100%
+        .shop_item
+          box-sizing border-box
+          width 100%
+          height 140px
+          padding 20px 6px 20px 18px
+          background-color #ffffff
+          margin-bottom 10px
+          border 1px #ffffff solid
+          border-radius 25px
+          >a
+            clearFix()
+            display block
+            width 100%
+            height 100px
+            .shop_logo
+              float left /*浮动*/
+              display inline-block
+              width 25%
+              img
+                display inline-block/*设置行内块级元素，可以设置宽和高*/
+                width 100px
+                height 96px
+            .shop_information
+              float left
+              padding-left 10px
+              width 70%
+              .information_list
+                clearFix()
+                width 100%
+                height 24px
+                line-height 24px
+                span
+                  float left
+                  display inline-block
+                  font-size 24px
+                  color black
+                  line-height 24px
+                  width 200px
+                  &::before
+                    display inline-block
+                    height 24px
+                    line-height 24px
+                    font-size 12px
+                    color black
+                    background-color: #dce775;
+                    border-radius 2px
+                    content "品牌"
+                .shop_detail
+                  float right
+                  .guarantee
+                    display inline-block
+                    border solid #eae8e8 1px
+                    font-size 15px
+                    line-height 15px
+              .shop_order
+                clearFix()
+                width 100%
+                padding-top 22px
+                .shop_star_container
+                  float left
+                .shop_score
+                  float left
+                  padding-left 4px
+                .order_number
+                  float left
+                  padding-left 8px
+                .shop_delivery
+                  float right
+                  border solid #4c82ed 1px
+                  color #4c82ed
+                  font-size 16px
+              .pay_container
+                width 100%
+                padding-top 20px
+                font-size 16px
+                color #adadad
+                .delivery_pay
+                  padding-left 10px
+  /*底部导航*/
+  .footer_container
+    top-border-1px(#e4e4e4) /*一像素上边框*/
+    position fixed /*固定定位在底部*/
+    z-index 100 /*显示级别*/
+    bottom 0
+    left 0
+    width 100%
+    height 50px
+    background-color: #ffffff;
+    display flex  /*实现四列两行*/
+    flex-direction row /*主轴行排*/
+    justify-content center /*主轴对齐方式*/
+    .footer_item
+      flex 1
+      display flex  /*实现两行*/
+      text-align center /*行内元素居中*/
+      flex-direction column
+      align-items center
+      margin 5px
+      color #999999
+      &.on
+        color #02a774
+      span
+        font-size 12px
+        margin-top 2px
+        margin-bottom 2px
+        .iconfont
+          font-size 22px

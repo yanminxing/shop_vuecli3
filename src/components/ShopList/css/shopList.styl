@@ -1,0 +1,111 @@
+@import "../../../common/stylus/mixins.styl"
+/*附近商家*/
+.shop_list
+  width 94%
+  margin 20px 3% 0 3%
+  background-color #f6f6f6
+  .shop_title
+    width 100%
+    height 30px
+    line-height 30px
+    margin-bottom 15px /*与列表的距离*/
+    .iconfont
+      font-size 20px
+      color #b4bac1
+    span
+      font-size 24px
+      padding-left 2px
+      color #979292
+  .shop_container
+    width 100%
+    &::after/*商家列表多时，解决底部导航隐藏商家列表内容*/
+      display block
+      width 100%
+      height 50px
+      content "" /*一定需要加这个才可以*/
+    .shops
+      width 100%
+      .shop_item
+        box-sizing border-box
+        width 100%
+        height 140px
+        padding 20px 10px 20px 10px /*抽成单个组件改过*/
+        background-color #ffffff
+        margin-bottom 10px
+        border 1px #ffffff solid
+        border-radius 25px
+        >a
+          clearFix()
+          display block
+          width 100%
+          height 100px
+          .shop_logo
+            float left /*浮动*/
+            display inline-block
+            width 25%
+            img
+              display inline-block/*设置行内块级元素，可以设置宽和高*/
+              width 100px
+              height 96px
+          .shop_information
+            float left
+            padding-left 15px/*这里抽成单个组件的时候，改变了一下值*/
+            width 70%
+            .information_list
+              clearFix()
+              width 100%
+              height 24px
+              line-height 24px
+              span
+                float left
+                display inline-block
+                font-size 24px
+                color black
+                line-height 24px
+                width 200px
+                &::before
+                  display inline-block
+                  height 24px
+                  line-height 24px
+                  font-size 12px
+                  color black
+                  background-color: #dce775;
+                  border-radius 2px
+                  content "品牌"
+              .shop_detail
+                float right
+                .guarantee
+                  display inline-block
+                  border solid #eae8e8 1px
+                  font-size 15px
+                  line-height 15px
+            .shop_order
+              clearFix()
+              width 100%
+              padding-top 22px
+              height 18px
+              line-height 18px
+              .shop_star_container
+                float left
+                .star_item
+                  .iconfont
+                    font-size 16px
+                    color #ff9a04
+              .shop_score
+                float left
+                padding-left 4px
+              .order_number
+                float left
+                padding-left 8px
+              .shop_delivery
+                float right
+                border solid #4c82ed 1px
+                color #4c82ed
+                font-size 14px
+            .pay_container
+              width 100%
+              padding-top 20px
+              font-size 14px
+              color #adadad
+              .delivery_pay
+                padding-left 10px

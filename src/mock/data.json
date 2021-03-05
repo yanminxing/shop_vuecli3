@@ -1,0 +1,3354 @@
+{
+  "info": {
+    "name": "鱼你在一起",
+    "description": "某团专送",
+    "deliveryTime": 35,
+    "shopReadyTime": 10,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 96.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 909,
+    "distance": "1058m",
+    "bulletin": "是以粥为特色的中式营养快餐，自2004年10月18日创立“嘉和一品”品牌至今，不断优化管理，积极创新，立足于“贴近百姓生活，服务千家万户”",
+    "supports": [
+       [
+        {
+          "type": 0,
+          "name": "减",
+          "content": "18减7"
+        },
+        {
+          "type": 0,
+          "name": "减",
+          "content": "50减9"
+        },
+        {
+          "type": 0,
+          "name": "减",
+          "content": "60减13"
+        },
+        {
+          "type": 0,
+          "name": "减",
+          "content": "100减26"
+        }
+      ],
+      [
+        {
+          "type": 1,
+          "name": "津",
+          "content": "9元津贴"
+        }
+      ],
+      [
+        {
+          "type": 2,
+          "name": "折",
+          "content": "2.61折起"
+        }
+      ],
+      [
+        {
+          "type": 3,
+          "name": "首",
+          "content": "首单减14元"
+        }
+      ]
+    ],
+    "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5o9ct3r0yXddIGIN8IDzAjp7SX36Qvc4MFAYBhJuEbDYUqrKlNxUHQ6TXrHsiz5ZRasLdm7r13ZOgKvfVovOqsA!/mnull&bo=9AFNAQAAAAABB5k!&rf=photolist&t=5",
+    "bgImg": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5mgujko6Fc58qqvUWQceokwhBbUUxHM2i86ltggQVLdB*xmtFZxBlfYPzJMrAUMl6PWXuEnmMQ*362Co2BSZAqM!/mnull&bo=OwIsAQAAAAABBzQ!&rf=photolist&t=5",
+    "pics": [
+      "https://fuss10.elemecdn.com/f/7f/d1422ec824a0a9d1fb879c57ab533jpeg.jpeg",
+      "https://fuss10.elemecdn.com/6/82/2cd3d681f5e93292b3eb49d6b412ajpeg.jpeg",
+      "https://fuss10.elemecdn.com/8/93/4cf527b6462eea634f69755374f88jpeg.jpeg",
+      "https://fuss10.elemecdn.com/3/f2/2a8796ba025a5773fd685a95ac369jpeg.jpeg",
+      "https://fuss10.elemecdn.com/a/c4/5a78f477fd616a51ce33586a76ddbjpeg.jpeg"
+    ],
+    "food_safe": "查看食品安全档案",
+    "category": "包子粥店, 简餐",
+    "phone": "18501083744",
+    "address": "深圳市宝安区望丰社区万安路182号",
+    "workTime": "0-24:00",
+    "notice": "各位亲爱的小主，每份菜是包含米饭的哦！如遇缺货等问题，请致电×××××××以便及时解决你的烦恼。（本店所选食材均是新鲜的某鱼和新鲜的蔬菜）",
+    "discounts": [
+      [
+        {
+          "type": 0,
+          "name": "减",
+          "content": "满18减7；满50减9；满60减13；满100减26"
+        }
+      ],
+      [
+        {
+          "type": 1,
+          "name": "津",
+          "content": "本店可用9元津贴（与满减共享）"
+        }
+      ],
+      [
+        {
+          "type": 2,
+          "name": "折",
+          "content": "折扣商品2.61折起；部分商品喊津贴2~32元"
+        }
+      ],
+      [
+        {
+          "type": 3,
+          "name": "首",
+          "content": "新人立减14元（本优惠与新人首单红包不可同享），首次使用某团支付最高立减3元"
+        }
+      ]
+    ],
+    "shopService": [
+      {
+        "icon": "icon-on_time",
+        "content": "准时宝",
+        "icon_help": "icon-wenhao"
+      },
+      {
+        "icon": "icon-xin",
+        "content": "放心吃",
+        "icon_help": "icon-wenhao"
+      },
+      {
+        "icon": "icon-gongyi",
+        "content": "青山公益",
+        "icon_help": "icon-wenhao"
+      },
+      {
+        "icon": "icon-gongshi",
+        "content": "食品展示",
+        "icon_help": "icon-wenhao"
+      }
+    ]
+  },
+  "foods": [
+    {
+      "foodClassId": 1000000001,
+      "name": "特惠",
+      "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 1000001,
+          "name": "酸菜鱼套餐1份",
+          "price": 42,
+          "oldPrice": 46,
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "setMeal": "1份酸菜鱼+一份白米粥+1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "温温wwx***",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "鱼也做的挺入味儿的，不算油腻，服务态度也不错，上菜速度快，服务员有主动更换餐具，停车方便，我们去的新源里店，总体感觉灰常不错",
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+              "score" : 4.5
+            },
+            {
+              "username": "安菲打到几点尔德12138",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "朋友介绍这里的水煮鱼味道超级棒。就餐环境舒适，位置也很好找就在电梯口一出来就是。",
+              "score" : 3.6,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            },
+            {
+              "username": "想要5分好评吗吗",
+              "rateTime": 1426561964000,
+              "rateType": 1,
+              "text": "好吃 可以团券 比单点划算多了 要了3斤的鱼 但是我觉得分量不够 三斤太少了 但是味道真的不错 而且油也干净 带回家了",
+              "score" : 4,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1000002,
+          "name": "番茄鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "辣",
+          "sellCount": 86,
+          "rating": 100,
+          "setMeal": "公举番茄鱼（黑鱼）+5元任意饮品",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1000003,
+          "name": "番茄巴沙鱼餐",
+          "price": 37.5,
+          "oldPrice": 44,
+          "description": "店内无包间，仅限堂食",
+          "sellCount": 84,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "foodId": 1000004,
+          "name": "酸菜黑鱼套餐",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "setMeal": "含1份米饭",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1000005,
+          "name": "酸菜黑鱼套餐",
+          "price": 42,
+          "oldPrice": 42.9,
+          "description": "酸菜黑鱼套餐",
+          "sellCount": 124,
+          "rating": 85,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1000006,
+          "name": "老坛酸菜鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "老坛酸菜鱼套餐1份",
+          "sellCount": 114,
+          "rating": 91,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1000007,
+          "name": "古坛酸菜鱼锅",
+          "price": 17,
+          "oldPrice": 25,
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "setMeal": "含1份米饭",
+          "info": "古坛酸菜鱼锅古坛酸菜鱼锅古坛酸菜鱼锅",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000002,
+      "name": "折扣",
+      "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 101001,
+          "name": "红汤梭边鱼锅",
+          "price|10-20": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜量还可以,味道还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 101002,
+          "name": "青柠白玉鱼锅",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 101003,
+          "name": "香酥黄金鱼/3条",
+          "price": 11,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000003,
+      "name": "特色鱼",
+      "foods": [
+        {
+          "foodId": 102001,
+          "name": "单人精品套餐酸菜鱼",
+          "price": 29,
+          "oldPrice": 36,
+          "description": "酸菜鱼（本店推荐）",
+          "sellCount": 17,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "酸菜鱼（本店推荐）",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 102002,
+          "name": "招牌小鱼三人餐",
+          "price": 14,
+          "oldPrice": 36,
+          "description": "招牌小鱼三人餐",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "招牌小鱼三人餐",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 102003,
+          "name": "暖冬豪华三人套餐",
+          "price": 58,
+          "oldPrice": 89,
+          "description": "豪华三人套餐",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "红枣山药糙米粥红枣山药糙米粥红枣山药糙米粥",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 102004,
+          "name": "番茄酸酸鱼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "番茄酸酸鱼",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000004,
+      "name": "满减特惠",
+      "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 1100001,
+          "name": "酸菜鱼套餐1份",
+          "price": 42,
+          "oldPrice": 46,
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "setMeal": "1份酸菜鱼+一份白米粥+1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "温温wwx***",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "鱼也做的挺入味儿的，不算油腻，服务态度也不错，上菜速度快，服务员有主动更换餐具，停车方便，我们去的新源里店，总体感觉灰常不错",
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+              "score" : 4.5
+            },
+            {
+              "username": "安菲打到几点尔德12138",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "朋友介绍这里的水煮鱼味道超级棒。就餐环境舒适，位置也很好找就在电梯口一出来就是。",
+              "score" : 3.6,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            },
+            {
+              "username": "想要5分好评吗吗",
+              "rateTime": 1426561964000,
+              "rateType": 1,
+              "text": "好吃 可以团券 比单点划算多了 要了3斤的鱼 但是我觉得分量不够 三斤太少了 但是味道真的不错 而且油也干净 带回家了",
+              "score" : 4,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1100002,
+          "name": "番茄鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "辣",
+          "sellCount": 86,
+          "rating": 100,
+          "setMeal": "公举番茄鱼（黑鱼）+5元任意饮品",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1100003,
+          "name": "番茄巴沙鱼餐",
+          "price": 37.5,
+          "oldPrice": 44,
+          "description": "店内无包间，仅限堂食",
+          "sellCount": 84,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "foodId": 1100004,
+          "name": "酸菜黑鱼套餐",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "setMeal": "含1份米饭",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1100005,
+          "name": "酸菜黑鱼套餐",
+          "price": 42,
+          "oldPrice": 42.9,
+          "description": "酸菜黑鱼套餐",
+          "sellCount": 124,
+          "rating": 85,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1100006,
+          "name": "老坛酸菜鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "老坛酸菜鱼套餐1份",
+          "sellCount": 114,
+          "rating": 91,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1100007,
+          "name": "古坛酸菜鱼锅",
+          "price": 17,
+          "oldPrice": 25,
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "setMeal": "含1份米饭",
+          "info": "古坛酸菜鱼锅古坛酸菜鱼锅古坛酸菜鱼锅",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000005,
+      "name": "满减折扣",
+      "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 111001,
+          "name": "红汤梭边鱼锅",
+          "price|10-20": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜量还可以,味道还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 111002,
+          "name": "青柠白玉鱼锅",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 111003,
+          "name": "香酥黄金鱼/3条",
+          "price": 11,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000006,
+      "name": "满减特色鱼",
+      "foods": [
+        {
+          "foodId": 112001,
+          "name": "单人精品套餐酸菜鱼",
+          "price": 29,
+          "oldPrice": 36,
+          "description": "酸菜鱼（本店推荐）",
+          "sellCount": 17,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "酸菜鱼（本店推荐）",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 112002,
+          "name": "招牌小鱼三人餐",
+          "price": 14,
+          "oldPrice": 36,
+          "description": "招牌小鱼三人餐",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "招牌小鱼三人餐",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 112003,
+          "name": "暖冬豪华三人套餐",
+          "price": 58,
+          "oldPrice": 89,
+          "description": "豪华三人套餐",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "红枣山药糙米粥红枣山药糙米粥红枣山药糙米粥",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 112004,
+          "name": "番茄酸酸鱼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "番茄酸酸鱼",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000007,
+      "name": "特惠_11",
+      "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 1100001,
+          "name": "酸菜鱼套餐1份",
+          "price": 42,
+          "oldPrice": 46,
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "setMeal": "1份酸菜鱼+一份白米粥+1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "温温wwx***",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "鱼也做的挺入味儿的，不算油腻，服务态度也不错，上菜速度快，服务员有主动更换餐具，停车方便，我们去的新源里店，总体感觉灰常不错",
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+              "score" : 4.5
+            },
+            {
+              "username": "安菲打到几点尔德12138",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "朋友介绍这里的水煮鱼味道超级棒。就餐环境舒适，位置也很好找就在电梯口一出来就是。",
+              "score" : 3.6,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            },
+            {
+              "username": "想要5分好评吗吗",
+              "rateTime": 1426561964000,
+              "rateType": 1,
+              "text": "好吃 可以团券 比单点划算多了 要了3斤的鱼 但是我觉得分量不够 三斤太少了 但是味道真的不错 而且油也干净 带回家了",
+              "score" : 4,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1100002,
+          "name": "番茄鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "辣",
+          "sellCount": 86,
+          "rating": 100,
+          "setMeal": "公举番茄鱼（黑鱼）+5元任意饮品",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1100003,
+          "name": "番茄巴沙鱼餐",
+          "price": 37.5,
+          "oldPrice": 44,
+          "description": "店内无包间，仅限堂食",
+          "sellCount": 84,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "foodId": 1100004,
+          "name": "酸菜黑鱼套餐",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "setMeal": "含1份米饭",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1100005,
+          "name": "酸菜黑鱼套餐",
+          "price": 42,
+          "oldPrice": 42.9,
+          "description": "酸菜黑鱼套餐",
+          "sellCount": 124,
+          "rating": 85,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1100006,
+          "name": "老坛酸菜鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "老坛酸菜鱼套餐1份",
+          "sellCount": 114,
+          "rating": 91,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1100007,
+          "name": "古坛酸菜鱼锅",
+          "price": 17,
+          "oldPrice": 25,
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "setMeal": "含1份米饭",
+          "info": "古坛酸菜鱼锅古坛酸菜鱼锅古坛酸菜鱼锅",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000008,
+      "name": "折扣_111",
+      "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 121001,
+          "name": "红汤梭边鱼锅",
+          "price|10-20": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜量还可以,味道还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 121002,
+          "name": "青柠白玉鱼锅",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 121003,
+          "name": "香酥黄金鱼/3条",
+          "price": 11,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000009,
+      "name": "特色鱼_111",
+      "foods": [
+        {
+          "foodId": 122001,
+          "name": "单人精品套餐酸菜鱼",
+          "price": 29,
+          "oldPrice": 36,
+          "description": "酸菜鱼（本店推荐）",
+          "sellCount": 17,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "酸菜鱼（本店推荐）",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 122002,
+          "name": "招牌小鱼三人餐",
+          "price": 14,
+          "oldPrice": 36,
+          "description": "招牌小鱼三人餐",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "招牌小鱼三人餐",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 122003,
+          "name": "暖冬豪华三人套餐",
+          "price": 58,
+          "oldPrice": 89,
+          "description": "豪华三人套餐",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "红枣山药糙米粥红枣山药糙米粥红枣山药糙米粥",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 122004,
+          "name": "番茄酸酸鱼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "番茄酸酸鱼",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000010,
+      "name": "特惠_22",
+      "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 1300001,
+          "name": "酸菜鱼套餐1份",
+          "price": 42,
+          "oldPrice": 46,
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "setMeal": "1份酸菜鱼+一份白米粥+1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "温温wwx***",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "鱼也做的挺入味儿的，不算油腻，服务态度也不错，上菜速度快，服务员有主动更换餐具，停车方便，我们去的新源里店，总体感觉灰常不错",
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+              "score" : 4.5
+            },
+            {
+              "username": "安菲打到几点尔德12138",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "朋友介绍这里的水煮鱼味道超级棒。就餐环境舒适，位置也很好找就在电梯口一出来就是。",
+              "score" : 3.6,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            },
+            {
+              "username": "想要5分好评吗吗",
+              "rateTime": 1426561964000,
+              "rateType": 1,
+              "text": "好吃 可以团券 比单点划算多了 要了3斤的鱼 但是我觉得分量不够 三斤太少了 但是味道真的不错 而且油也干净 带回家了",
+              "score" : 4,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1300002,
+          "name": "番茄鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "辣",
+          "sellCount": 86,
+          "rating": 100,
+          "setMeal": "公举番茄鱼（黑鱼）+5元任意饮品",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1300003,
+          "name": "番茄巴沙鱼餐",
+          "price": 37.5,
+          "oldPrice": 44,
+          "description": "店内无包间，仅限堂食",
+          "sellCount": 84,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "foodId": 1300004,
+          "name": "酸菜黑鱼套餐",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "setMeal": "含1份米饭",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1300005,
+          "name": "酸菜黑鱼套餐",
+          "price": 42,
+          "oldPrice": 42.9,
+          "description": "酸菜黑鱼套餐",
+          "sellCount": 124,
+          "rating": 85,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1300006,
+          "name": "老坛酸菜鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "老坛酸菜鱼套餐1份",
+          "sellCount": 114,
+          "rating": 91,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1300007,
+          "name": "古坛酸菜鱼锅",
+          "price": 17,
+          "oldPrice": 25,
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "setMeal": "含1份米饭",
+          "info": "古坛酸菜鱼锅古坛酸菜鱼锅古坛酸菜鱼锅",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000011,
+      "name": "折扣_22",
+      "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 131001,
+          "name": "红汤梭边鱼锅",
+          "price|10-20": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜量还可以,味道还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 131002,
+          "name": "青柠白玉鱼锅",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 131003,
+          "name": "香酥黄金鱼/3条",
+          "price": 11,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000012,
+      "name": "特色鱼+22",
+      "foods": [
+        {
+          "foodId": 132001,
+          "name": "单人精品套餐酸菜鱼",
+          "price": 29,
+          "oldPrice": 36,
+          "description": "酸菜鱼（本店推荐）",
+          "sellCount": 17,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "酸菜鱼（本店推荐）",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 132002,
+          "name": "招牌小鱼三人餐",
+          "price": 14,
+          "oldPrice": 36,
+          "description": "招牌小鱼三人餐",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "招牌小鱼三人餐",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 132003,
+          "name": "暖冬豪华三人套餐",
+          "price": 58,
+          "oldPrice": 89,
+          "description": "豪华三人套餐",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "红枣山药糙米粥红枣山药糙米粥红枣山药糙米粥",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 132004,
+          "name": "番茄酸酸鱼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "番茄酸酸鱼",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000013,
+      "name": "特惠+444",
+      "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 1400001,
+          "name": "酸菜鱼套餐1份",
+          "price": 42,
+          "oldPrice": 46,
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "setMeal": "1份酸菜鱼+一份白米粥+1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "温温wwx***",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "鱼也做的挺入味儿的，不算油腻，服务态度也不错，上菜速度快，服务员有主动更换餐具，停车方便，我们去的新源里店，总体感觉灰常不错",
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+              "score" : 4.5
+            },
+            {
+              "username": "安菲打到几点尔德12138",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "朋友介绍这里的水煮鱼味道超级棒。就餐环境舒适，位置也很好找就在电梯口一出来就是。",
+              "score" : 3.6,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            },
+            {
+              "username": "想要5分好评吗吗",
+              "rateTime": 1426561964000,
+              "rateType": 1,
+              "text": "好吃 可以团券 比单点划算多了 要了3斤的鱼 但是我觉得分量不够 三斤太少了 但是味道真的不错 而且油也干净 带回家了",
+              "score" : 4,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1400002,
+          "name": "番茄鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "辣",
+          "sellCount": 86,
+          "rating": 100,
+          "setMeal": "公举番茄鱼（黑鱼）+5元任意饮品",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1400003,
+          "name": "番茄巴沙鱼餐",
+          "price": 37.5,
+          "oldPrice": 44,
+          "description": "店内无包间，仅限堂食",
+          "sellCount": 84,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "foodId": 1400004,
+          "name": "酸菜黑鱼套餐",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "setMeal": "含1份米饭",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1400005,
+          "name": "酸菜黑鱼套餐",
+          "price": 42,
+          "oldPrice": 42.9,
+          "description": "酸菜黑鱼套餐",
+          "sellCount": 124,
+          "rating": 85,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1400006,
+          "name": "老坛酸菜鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "老坛酸菜鱼套餐1份",
+          "sellCount": 114,
+          "rating": 91,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1400007,
+          "name": "古坛酸菜鱼锅",
+          "price": 17,
+          "oldPrice": 25,
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "setMeal": "含1份米饭",
+          "info": "古坛酸菜鱼锅古坛酸菜鱼锅古坛酸菜鱼锅",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000014,
+      "name": "折扣_44",
+      "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 141001,
+          "name": "红汤梭边鱼锅",
+          "price|10-20": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜量还可以,味道还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 141002,
+          "name": "青柠白玉鱼锅",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 141003,
+          "name": "香酥黄金鱼/3条",
+          "price": 11,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000015,
+      "name": "特色鱼_44",
+      "foods": [
+        {
+          "foodId": 142001,
+          "name": "单人精品套餐酸菜鱼",
+          "price": 29,
+          "oldPrice": 36,
+          "description": "酸菜鱼（本店推荐）",
+          "sellCount": 17,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "酸菜鱼（本店推荐）",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 142002,
+          "name": "招牌小鱼三人餐",
+          "price": 14,
+          "oldPrice": 36,
+          "description": "招牌小鱼三人餐",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "招牌小鱼三人餐",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 142003,
+          "name": "暖冬豪华三人套餐",
+          "price": 58,
+          "oldPrice": 89,
+          "description": "豪华三人套餐",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "红枣山药糙米粥红枣山药糙米粥红枣山药糙米粥",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 142004,
+          "name": "番茄酸酸鱼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "番茄酸酸鱼",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000016,
+      "name": "特惠_55",
+      "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 1500001,
+          "name": "酸菜鱼套餐1份",
+          "price": 42,
+          "oldPrice": 46,
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "setMeal": "1份酸菜鱼+一份白米粥+1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "温温wwx***",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "鱼也做的挺入味儿的，不算油腻，服务态度也不错，上菜速度快，服务员有主动更换餐具，停车方便，我们去的新源里店，总体感觉灰常不错",
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+              "score" : 4.5
+            },
+            {
+              "username": "安菲打到几点尔德12138",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "朋友介绍这里的水煮鱼味道超级棒。就餐环境舒适，位置也很好找就在电梯口一出来就是。",
+              "score" : 3.6,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            },
+            {
+              "username": "想要5分好评吗吗",
+              "rateTime": 1426561964000,
+              "rateType": 1,
+              "text": "好吃 可以团券 比单点划算多了 要了3斤的鱼 但是我觉得分量不够 三斤太少了 但是味道真的不错 而且油也干净 带回家了",
+              "score" : 4,
+              "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5uVjyJi2yPTmcAqoPhoom3D2c4Uv8UmP8Xy9Am3cfkdDDvomM64l2lQksnD9pady6z5XbZVHbFBXbL55nY8zUeY!/mnull&bo=3wOyAwAAAAABB00!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1500002,
+          "name": "番茄鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "辣",
+          "sellCount": 86,
+          "rating": 100,
+          "setMeal": "公举番茄鱼（黑鱼）+5元任意饮品",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQH*U*43Tzv4*Nrx9MZLrr6vzQIo8dyosyQTJXJMZdchKsQ1ikBlwI2cBlTJDdEmEYA!/mnull&bo=WALuAgAAAAABB5Y!&rf=photolist&t=5",
+          "images": [
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750",
+            "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+          ]
+        },
+        {
+          "foodId": 1500003,
+          "name": "番茄巴沙鱼餐",
+          "price": 37.5,
+          "oldPrice": 44,
+          "description": "店内无包间，仅限堂食",
+          "sellCount": 84,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "主、辅料:酸菜鱼、豆芽、水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "foodId": 1500004,
+          "name": "酸菜黑鱼套餐",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "setMeal": "含1份米饭",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1500005,
+          "name": "酸菜黑鱼套餐",
+          "price": 42,
+          "oldPrice": 42.9,
+          "description": "酸菜黑鱼套餐",
+          "sellCount": 124,
+          "rating": 85,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ox7cof5PcsrJftSSpdxADmJPwwWQVNe7z8XGtk7fERmWegv0mW7zPGE2.8Nfv0YpPj52hGDK7zNEjAHub1CN7E!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1500006,
+          "name": "老坛酸菜鱼套餐1份",
+          "price": 39,
+          "oldPrice": 41,
+          "description": "老坛酸菜鱼套餐1份",
+          "sellCount": 114,
+          "rating": 91,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5pWLI2*sAepilqrolP4chY4o42a1q2vKc*kq*LmJBTIZWTJHwj0bSnwfMfVqc15DkrjqJI36yyZLp4R8tsysrgQ!/mnull&bo=0ALgAQAAAAABBxM!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 1500007,
+          "name": "古坛酸菜鱼锅",
+          "price": 17,
+          "oldPrice": 25,
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "setMeal": "含1份米饭",
+          "info": "古坛酸菜鱼锅古坛酸菜鱼锅古坛酸菜鱼锅",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.h2DnxqaMw9.Xwa1sym6UJEHti071aM7xMxmxRfuzx7BEcGhx3Wj5XYwaf.TwItnw!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000016,
+      "name": "折扣_66",
+      "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+      "classesIcon": "icon-liebiao1",
+      "foods": [
+        {
+          "foodId": 161001,
+          "name": "红汤梭边鱼锅",
+          "price|10-20": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜量还可以,味道还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5sNKd5SAGMAqBw3rWt0o5R3bT17p*E1IMQc6pFIw6I9O*ZD8OBE0l7pz8CnpCky9*O1vDC3yxQTv9kOy8wR2YVg!/mnull&bo=WAIgAwAAAAABB1k!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 161002,
+          "name": "青柠白玉鱼锅",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5svqGgnvqV.223.StZP5Uh.*68UpzYjvjRwxx1cV0Za4gNGkOsmOFwFfiydmIHcoZhuCO*RKiAs6wHbsM*d5aao!/mnull&bo=DQIsAQAAAAABBwI!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 161003,
+          "name": "香酥黄金鱼/3条",
+          "price": 11,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9Vh9iUDsakbURSFHN*9Fm13T0guIDGeUhFrmLVlQ294mpbEJoIFjXO2ha4pIci05gS8!/mnull&bo=nAQTAwAAAAABB6g!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "foodClassId": 1000000017,
+      "name": "特色鱼_66",
+      "foods": [
+        {
+          "foodId": 162001,
+          "name": "单人精品套餐酸菜鱼",
+          "price": 29,
+          "oldPrice": 36,
+          "description": "酸菜鱼（本店推荐）",
+          "sellCount": 17,
+          "rating": 100,
+          "setMeal": "含1份米饭",
+          "info": "酸菜鱼（本店推荐）",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5kjGbaBC16mtk2sejF1N*WLS7AaRTNL9gmKN.GRZH.jBRUH7JlgphTb00hhgaz6lZBN7ZikgG*iDRp.I*l7a9Dk!/mnull&bo=GAEYAQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 162002,
+          "name": "招牌小鱼三人餐",
+          "price": 14,
+          "oldPrice": 36,
+          "description": "招牌小鱼三人餐",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "招牌小鱼三人餐",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 162003,
+          "name": "暖冬豪华三人套餐",
+          "price": 58,
+          "oldPrice": 89,
+          "description": "豪华三人套餐",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "红枣山药糙米粥红枣山药糙米粥红枣山药糙米粥",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQGF7dxkS4mFJFZYUHNh*Z11z7EPpYyeG1f*2VKj*IhksFo22MKNSmTwxU.ZU*w2wPU!/mnull&bo=WAJYAgAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "foodId": 162004,
+          "name": "番茄酸酸鱼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "番茄酸酸鱼",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5",
+          "image": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5ofYvmXm49KvEzJJXKHm9VjS*c8ctbni36l8n2hqhoL2onNy1mMGPfGWe4IPyzFP14xbXsvULsgsrkhzjvNF.Jk!/mnull&bo=OAQ4BAAAAAABByA!&rf=photolist&t=5"
+        }
+      ]
+    }
+  ],
+  "evaluates": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "味道不错，菜量也大，服务态度好，关键是是活鱼，所以需要等一会儿",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [
+        "南瓜粥",
+        "皮蛋瘦肉粥",
+        "扁豆焖面",
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ],
+      "userShowImg": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1478271264000,
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "店铺挺干净的，服务也很好，本来说是提前预约才能团购",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [
+        "扁豆焖面"
+      ],
+      "userShowImg": []
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1498261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "味道一般有一点油，饼子有一点酸 说不清楚是发酵过头还是放久了怎样，而且鱼肉不新鲜，绝不是活鱼，吃着绵绵的口感",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "价格亲民，菜品搭配不错，性价比高",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "六个女生刚刚好，白菜最好吃了。",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "服务员没什么服务意识，磨磨蹭蹭，给我们这桌弄好了",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的粥店",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": [
+        {
+          "userImgUrl": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jUpKUPr.PKDioHjDqPw3TShoTBKz0pcFYdwmPGXmQfID1WPG5c4aT03DDQNQsUR7s9dvqN2A67aXcD1h7JEals!/mnull&bo=OASfBQAAAAABB4Y!&rf=photolist&t=5"
+        },
+        {
+          "userImgUrl": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jUpKUPr.PKDioHjDqPw3TQDxMinSdqsTURLtddOFD77SFE7sErrMb94lAZW6iahaN8Pd.kYqGoFsCizxbPEfE0!/mnull&bo=OASfBQAAAAABB4Y!&rf=photolist&t=5"
+        },
+        {
+          "userImgUrl": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5u5ZdKhB4v18kzdHj6eXMQEv*pLcd2wSD19lbfUQA8*sJhKu103jGj9NskIgEDJQx2tYwM5M4z9O8T1FGEeZaBw!/mnull&bo=9AH0AQAAAAABByA!&rf=photolist&t=5"
+        },
+        {
+          "userImgUrl": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5lMw4xXZDWLL6ATW0k*sgcAEp*bIVrI2wyhhbQ0ZUicZ7X0.4jZ7i5sMItyA4*.bPaLPmCMmc.I0AvW*QMK2pgY!/mnull&bo=9AFNAQAAAAABB5k!&rf=photolist&t=5"
+        },
+        {
+          "userImgUrl": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jUpKUPr.PKDioHjDqPw3TSxb5Xp*KbtgfaG9qcztqFbtrKvXs5x8tSwMTDhewRx8kfXNvaK9hE5aqdEabGzm8Y!/mnull&bo=OAQ9BAAAAAABByU!&rf=photolist&t=5"
+        },
+        {
+          "userImgUrl": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jUpKUPr.PKDioHjDqPw3TQuJoo*CkZVH1zJ*wkBJFKUODkj1zdCiKIGeRO69R4aldXi80DjUbEedoEPzmZ9VvY!/mnull&bo=OASfBQAAAAABB4Y!&rf=photolist&t=5"
+        },
+        {
+          "userImgUrl": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5oTMSN3sbTbhlP2GycBSrhkRD4rHKVl6LnZRU51ORemd9T.IY5gGr42yZdfImi20pfnV1v.y2q8kQD8TS*JaTCI!/mnull&bo=OASfBQAAAAABB4Y!&rf=photolist&t=5"
+        },
+        {
+          "userImgUrl": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5oTMSN3sbTbhlP2GycBSrhndu8SyjWdAGfacfQ.62b0CNn**YHWLLDRCu1dLqzxpqcQdx0HtcXriDXB8p7nAu5U!/mnull&bo=OASfBQAAAAABB4Y!&rf=photolist&t=5"
+        }
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "作为东北人 太喜欢吃了 味道地道正宗",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "数量少也没啥，有点想雪媚娘，但让我忍受不了的是鱼做的太难吃了",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "特别香，下次一定要吃双人的。。",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [
+        "南瓜粥"
+      ],
+      "userShowImg": []
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "一如既往的好，常来，老顾客了。",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "服务态度差，服务员岁数很大",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "闺女狠爱吃烤鱼，在网上搜了下，",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "经常去吃的一家烤鱼店，网上团的套餐非常划算",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "味道不错，双人餐量也很大，三个人加了些菜吃完全够的，酱香味的鱼炒鸡好吃",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "很满意的一次就餐体验，整体评价的话我觉得",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "环境差，味道一般，不会再去了，不如万达的烤鱼好",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "烤鱼味道真心不错 就是大米饭碗太小了 还得要第二晚",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "环境差，味道一般，不会再去了，不如万达的烤鱼好",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "店家大气，已经坐车来吃第三吃啦，虽然鱼还没上来，上来再拍",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "店家大气，已经坐车来吃第三吃啦，虽然鱼还没上来，上来再拍",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "爱尚鱼店服务热情，菜品好吃，店家大气，已经坐车来吃第三吃啦，虽然鱼还没上来，上来再拍",
+      "avatar": "https://m.qpic.cn/psc?/V53tkwTt4Hqdjg2t666X3zuePl00tX2K/ruAMsa53pVQWN7FLK88i5jncO9rJ1k3AsxC7ybFKXuHG3qVCqC.iytaSq26cuMnOvo.U.CtuOlmiKbeBFoi72sr83dyiXTwdibQRWF9Vh0M!/mnull&bo=9AH1AQAAAAABByE!&rf=photolist&t=5",
+      "recommend": [],
+      "userShowImg": []
+    }
+  ]
+}

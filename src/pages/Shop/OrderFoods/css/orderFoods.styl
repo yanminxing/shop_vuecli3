@@ -1,0 +1,130 @@
+@import "../../../../common/stylus/mixins.styl"
+.order_foods
+  width 100%
+  /*通过定位，将food_order_container与food_wrapper放在一行里面*/
+  .food_order_container
+    position absolute
+    top 278px  /*设置这两个值，为了将该区域固定在路由导航下面的可视区域，这样，下面第三行才有效*/
+    bottom 50px
+    overflow hidden
+    width 92px
+    background-color #f5f8fd
+    .food_classes_list /*ul*/
+      width 92px
+      padding-top 10px
+      .food_classes_item  /*li*/
+        position relative
+        display flex
+        align-items center
+        height 54px
+        padding 0 20px 0 15px
+        border-bottom 1px #f6f8fa solid
+        color gray
+        .classes_content
+          width 100% /*注意，这里不能设置高度，否则，不会只显示两行文字（会超出两行文字）*/
+          text-overflow -o-ellipsis-lastline  /*以下六行显示超过两行文字就显示省略号,好像该元素设置position也无效*/
+          overflow hidden
+          text-overflow ellipsis
+          display -webkit-box  /*高度随文字子适应，不能设置高度，否则该属性无效*/
+          -webkit-line-clamp 2  /*只显示两行文字*/
+          -webkit-box-orient vertical
+          .classes_icon  /*span--1*/
+            margin-right 5px
+            .iconfont
+              font-size 12px
+              color black
+          .classes_name    /*span--2*/
+            font-size 12px
+        .food_count_menu
+          position absolute
+          right 3px
+          top 10px
+          z-index 10
+          width 20px
+          height 20px
+          line-height 20px
+          text-align center
+          border-radius 50%  /*设置圆圈,需要宽和高相等*/
+          background-color red
+          .foods_count
+            font-size 12px
+            color #FFFFFF
+        &.menu_on
+          background-color  #ffffff
+          color black
+      &::after
+        width 100%
+        content ""
+        height 10px
+        display block
+  .food_wrapper
+    position absolute
+    top 278px  /*设置这两个值，为了将该区域固定在路由导航下面的可视区域，这样，下面第三行才有效*/
+    bottom 50px
+    left 92px
+    overflow hidden
+    width 75%
+    background-color #ffffff
+    .food_lists
+      width 100%
+      .food_item
+        width 100%
+        .food_item_name_con
+          width 100%
+          padding-left 20px
+          height 30px
+          font-size 14px
+          line-height 30px
+          background-color #f3f5f7
+        .food_item_detail /*ul*/
+          display flex
+          align-items center /*行内元素垂直居中*/
+          height 120px
+          margin 0 10px 0 15px
+          border-bottom 1px #f6f8fa solid
+          .food_item_icon /*li*/
+            width 56px
+            height 56px
+            margin-right 10px
+            .img_class
+              width 56px
+              height 56px
+          .food_item_content  /*li*/
+            flex 1
+            height 100% /*元素沾满父元素高度*，不然元素会垂直居中（上面设置的align-items center）*/
+            .food_item_name
+              margin-top 15px
+              font-size 18px
+              color #302e2f
+            .food_item_describe
+              width 100% /*注意，这里不能设置高度，否则，不会只显示两行文字（会超出两行*/
+              color #bbbab8
+              font-size 12px
+              margin-top 8px
+              text-overflow -o-ellipsis-lastline  /*以下六行显示超过两行文字就显示省略号,好像该元素设置position也无效*/
+              overflow hidden
+              text-overflow ellipsis
+              display -webkit-box  /*高度随文字子适应，不能设置高度，否则该属性无效*/
+              -webkit-line-clamp 2  /*只显示两行文字*/
+              -webkit-box-orient vertical
+            .food_item_rate
+              color #bbbab8
+              font-size 12px
+              margin-top 8px
+              .monthly_sales
+                margin-right 15px
+            .food_item_price
+              clearFix()
+              color #bbbab8
+              font-size 14px
+              margin-top 8px
+              .new_price
+                float left
+                color  red
+              .old_price
+                float left
+                margin-left 8px
+                font-size 12px
+                text-decoration line-through /*字体中间横线*/
+        >:last-child  /*最后一个子元素不显示下划线*/
+          border transparent

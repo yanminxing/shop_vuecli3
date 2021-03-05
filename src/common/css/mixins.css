@@ -1,0 +1,41 @@
+/*一像素下边框*/
+.bottom-border-1px {
+  position: relative;
+  border: none;
+}
+.bottom-border-1px:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #00B7FF ;
+  transform: scaleY(0.5);
+}
+
+/*一像素上边框*/
+.top-border-1px {
+  position: relative;
+}
+.top-border-1px::before {
+  content: "";
+  position: absolute;
+  z-index: 200;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #F5A100 ;
+}
+
+
+/*清除浮动*/
+.clearFix {
+  zoom: 1;
+}
+.clearFix::after {
+  content: "";
+  display: block;
+  clear: both;
+}

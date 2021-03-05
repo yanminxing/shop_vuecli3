@@ -1,0 +1,126 @@
+.evaluate_con
+  position absolute
+  top 278px  /*设置这两个值，为了将该区域固定在路由导航下面的可视区域，这样，下面第三行才有效*/
+  bottom 0
+  left 0
+  overflow hidden
+  background-color #FFFFFF
+  width 100%
+  .total_ratings  /*<!--商家总体评价-->*/
+    width 94%
+    margin 10px 15px 0
+    height 80px
+    display flex
+    justify-content start
+    align-items center
+    .total_shop_rating  /*商家评价之左边分数与口味*/
+      display flex
+      align-items center
+      .shop_score
+        font-size 26px
+        color #ff9933
+        margin-left 15px
+        font-weight bold
+      .shop_stars
+        display flex
+        flex-direction column
+        padding 4px 8px
+        font-size 14px
+        .stars_text
+          color #c3c4c5
+        .stars_con
+          margin-top 10px
+          color #170707
+          font-weight bold
+          font-size 14px
+      >:last-child
+        padding-right 20px
+        border-right 1px #dadbdc solid
+    .shop_delivery   /*-商家评价之右边配送满意度*/
+      margin-left 20px
+      .delivery_text
+        display block
+        font-size 12px
+        color #c3c4c5
+      .delivery_score
+        margin-top 10px
+        font-size 14px
+        display block
+        font-weight bold
+  .select_type_coon
+    width 100%
+    &::before
+      display block
+      content ""
+      width 100%
+      height 10px
+      background-color #f0f0f0
+    .select_type
+      width 94%
+      margin 20px 16px 0
+      .type_item
+        margin-right 10px
+        padding 6 px
+        font-size 14px
+        background-color #dbdddf
+        border-radius 5px
+      .type_item_on
+        background-color #ffcc33
+  .food_detali_rating
+    background-color #FFFFFF
+    margin-top 10px
+    width 100%
+    .rating_title
+      padding-top 10px
+      margin-left 10px
+      font-size 22px
+    .ratings  /*ul*/
+      width 100%
+      .rating_item  /*li*/
+        border-bottom 1px #c4c4c6 solid
+        margin 20px 10px 0 10px
+        .user_rating
+          clearFix()
+          width 100%
+          height 50px
+          .user_icon
+            float left
+            .img_con
+              display inline-block
+              width 45px
+              height 45px
+          .user_con
+            float left
+            margin-left 16px
+            display flex
+            flex-direction column
+            .user_name
+              font-size 16px
+              margin-bottom 10px
+          .rating_time
+            float right
+            color grey
+            font-size 12px
+        .user_say_detail
+          width 100%
+          display block
+          font-size 12px
+          line-height 16px
+          margin-left 10px
+          color black
+          padding-bottom 16px
+        .img_ul_li_con
+          width 100%
+          padding-bottom 16px
+          .ul_img_con
+            width 100%
+            display flex
+            flex-wrap wrap
+            .li_img_item
+              margin-right 10px
+              margin-top 6px
+              .img_con
+                width 88px
+                height 80px
+      >:last-child  /*最后一个子元素不显示下划线*/
+        border transparent

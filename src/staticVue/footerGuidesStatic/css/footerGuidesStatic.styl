@@ -1,0 +1,38 @@
+@import "../../../common/stylus/mixins.styl"
+  .footer_container
+    top-border-1px(#e4e4e4) /*一像素上边框*/
+    position fixed /*固定定位在底部*/
+    z-index 100 /*显示级别*/
+    bottom 0
+    left 0
+    width 100%
+    height 50px
+    background-color: #ffffff;
+    display flex  /*实现四列两行*/
+    flex-direction row /*主轴行排*/
+    justify-content center /*主轴对齐方式*/
+    .footer_item
+      flex 1
+      display flex  /*实现两行*/
+      text-align center /*行内元素居中*/
+      flex-direction column
+      align-items center
+      margin 5px
+      color #999999
+      span
+        font-size 12px
+        margin-top 2px
+        margin-bottom 2px
+        .iconfont
+          font-size 22px
+    /*动态的class*/
+    .on
+      color #02a774
+
+
+
+
+
+
+
+
