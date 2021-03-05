@@ -1,4 +1,19 @@
+
 # gshop-vue-2-6
+## 1 项目概述：
+### 博客功能描述地址
+
+### 项目描述
+项目是仿外卖的WepApp，类似于饿了么、美团外卖等app的部分页面与功能。该项目是一个前后端分离的项目，后端是通过node.js开发，前端是使用vue进行开发。我主要进行的是前端页面的设计与开发。
+注意：本项目只进行前端的开发，部分数据从后端获取，部分数据使用的是mock数据。（如果需要后端代码，可以私聊）
+2 主要页面
+包含了登录页面、首页、搜索页面、订单、个人中心、商铺、食品详情页等。
+3 主要技术
+1）采用了使用 Vue 全家桶+ES6+Webpack 等前端最新最热的技术
+2）使用vue-cli3构建整个项目，使用stylus进行css代码的预编译
+3）采用了模块化、组件化进行整体的开发
+4）使用了ajax（框架axios）进行页面的某些请求
+
 
 ## Project setup
 ```
@@ -33,9 +48,4 @@ ESLint 是一个代码规范检查工具
 ###1 下载stylus（stylus@0.54.8）
 npm install stylus stylus-loader --save-dev
 
-##git操作
-###1 git init 
-###2 git add * 
-###2 git commit -m "init shop"  
-###3 git remote add origin git@github.com/yanminxing/shop_vuecli3.github.io.git
-###3 git push origin master
+
